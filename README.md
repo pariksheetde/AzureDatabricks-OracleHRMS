@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="Copilot_20260831_214120" src="https://github.com/user-attachments/assets/138c7fd9-eb1a-4832-8e77-bf4ee6e2771a" />
 Data Engineering Oracle HRMS by Pariksheet De
 Overview
 This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured Oracle Human Resource data
