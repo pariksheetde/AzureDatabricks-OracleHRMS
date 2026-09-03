@@ -10,7 +10,7 @@ Scalability — As the size of our data increases, we need to make sure our syst
 Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use Azure Databricks
 
 Services we will be using
-Amazon S3: Azure ADLS is an object storage service that provides manufacturing scalability, data availability, security, and performance.
+Azure ADLS: is an object storage service that provides manufacturing scalability, data availability, security, and performance.
 Storage IAM: This is nothing but identity and access management which enables us to manage access to Azure Databricks services and resources securely.
 Azure Databricks: A serverless data integration service that makes it easy to discover, prepare, and combine data for analytics, machine learning, and application development.
 Unity Catalog: 
