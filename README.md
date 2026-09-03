@@ -3,7 +3,7 @@ Data Engineering Oracle HRMS
 **Author** 
 Pariksheet De
 
-**_Overview_**
+**_Overview_**:
 This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured Oracle Human Resource data
 
 **Project Goals**
